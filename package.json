@@ -1,0 +1,14 @@
+{
+  "name": "intro-section",
+  "version": "1.0.0",
+  "description": "![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "Max Wołczyk",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.58.0"
+  }
+}
